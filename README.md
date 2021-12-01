@@ -24,7 +24,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
+$ git clone https://github.com/Noman08/Ecommerce-website-react-node.git
 $ cd amazona
 ```
 
